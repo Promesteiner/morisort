@@ -150,7 +150,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Julia Verus",
-    img: "KKGmNKb.png",
+    img: "XPwqbz0.png",
     opts: {
       series: [ "TIC" ],
       era: [ "1" ],
