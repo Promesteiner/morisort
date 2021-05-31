@@ -1,0 +1,252 @@
+dataSetVersion = "2021-05-31"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSet[dataSetVersion] = {};
+
+dataSet[dataSetVersion].options = [
+  {
+    name: "Filter by Setting",
+    key: "series",
+    tooltip: "Check this to restrict to certain series.",
+    checked: false,
+    sub: [
+      { name: "The Infinite Consortium", tooltip: "The Infinite Consortium", key: "TIC" },
+      { name: "Companionship", tooltip: "Companionship", key: "CS" }, 
+      { name: "Spike's Superstar Games", tooltip: "Spike's Superstar Games", key: "SSG" },     
+      { name: "Other", tooltip: "Unrelated roleplays and characters", key: "RP" }
+    ]
+  },
+ {
+    name: "Filter by TIC Era",
+    key: "era",
+    tooltip: "Check this to restrict to certain eras in Consortium history. Cuts out non-TIC characters.",
+    checked: false,
+    sub: [
+      { name: "Primordial", tooltip: "Primordial", key: "0" },
+      { name: "Carolinic", tooltip: "Carolinic", key: "1" },     
+      { name: "Aspirations", tooltip: "Aspirations", key: "2" },          
+      { name: "Civil War", tooltip: "Civil War", key: "3" },
+      { name: "Post-Reformation", tooltip: "Post-Reformation", key: "4" }
+    ]
+  },
+ {
+  name: 'Remove Boys',
+  key: 'boy',
+  tooltip: 'Check this to get the boys out of there.',
+  checked: false
+  },
+ {
+  name: 'Remove Girls',
+  key: 'girl',
+  tooltip: 'Check this to get the girls out of there.',
+  checked: false
+  }
+];
+
+dataSet[dataSetVersion].characterData = [
+   {
+    name: "Valev",
+    img: "mYwdSSg.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3", "4" ],
+      boy: true
+    }
+  },
+  {
+    name: "Vayla",
+    img: "WQq2Mrj.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1", "3", "4" ],
+      girl: true
+    }
+  },
+  {
+    name: "The Herald of Bloom",
+    img: "TfJkYFF.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "0" ],
+      girl: true
+    }
+  },  
+  {
+    name: "The Herald of Decay",
+    img: "JvHQivT.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "0" ],
+      boy: true
+    }
+  },    
+  {
+    name: "Annabelle Vita",
+    img: "xsfRagw.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1" ,"3" ],
+      girl: true
+    }
+  },  
+  {
+    name: "Claudia Aelian",
+    img: "2Vzx8oZ.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1" ],
+      girl: true
+    }
+  },
+  {
+    name: "Kseniya Arminius",
+    img: "Vukcu6t.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1" ],
+      girl: true
+    }
+  },  
+  {
+    name: "Marcella Quirinus",
+    img: "lRJE4yE.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1" ],
+      girl: true
+    }
+  },    
+  {
+    name: "Rega Attalus",
+    img: "49ZLP2p.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1" ],
+      girl: true
+    }
+  },      
+  {
+    name: "Sabina Vita",
+    img: "UbgNDaE.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1" ],
+      girl: true
+    }
+  },  
+  {
+    name: "Sur'ah Hakira Sari",
+    img: "LVkPoGd.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1" ],
+      girl: true
+    }
+  },    
+  {
+    name: "Alois Burkhard",
+    img: "v54NeUd.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      boy: true
+    }
+  },    
+  {
+    name: "Alri Sog'drethazzamauthorrar",
+    img: "kpRxFH6.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      girl: true
+    }
+  },     
+  {
+    name: "Artios",
+    img: "zDJ35MF.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      boy: true
+    }
+  },      
+  {
+    name: "Astarte",
+    img: "VIEBpIL.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      girl: true
+    }
+  },       
+  {
+    name: "Gaius Marius",
+    img: "VBDrVTs.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      boy: true
+    }
+  },     
+  {
+    name: "Hayti",
+    img: "PlDYhnK.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      girl: true
+    }
+  },    
+  {
+    name: "Iona Riveras",
+    img: "o8A2iW0.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      girl: true
+    }
+  },     
+  {
+    name: "June",
+    img: "Z9WIfCD.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      girl: true
+    }
+  },      
+  {
+    name: "Mirai",
+    img: "UDvytpf.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      girl: true
+    }
+  },      
+  {
+    name: "Rehmer",
+    img: "xb8CkOR.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      boy: true
+    }
+  },     
+  {
+    name: "Rosalyn Oriya",
+    img: "5FJNOXt.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      girl: true
+    }
+  },      
+  {
+    name: "Russel Raleigh",
+    img: "nSg1zuX.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      boy: true
+    }
+  }  
+];
