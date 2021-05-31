@@ -546,5 +546,5 @@ dataSet[dataSetVersion].characterData = [
       era: [ "0", "1", "2", "3", "4" ],
       boy: true
     }
-  },         
+  }     
 ];
