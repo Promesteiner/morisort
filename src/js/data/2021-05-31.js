@@ -61,6 +61,41 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Animus",
+    img: "JkaBYxS.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "0" ]
+    }
+  },    
+  {
+    name: "Ash Verle",
+    img: "JE46CZg.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "0" ],
+      boy: true
+    }
+  },  
+  {
+    name: "The Baku",
+    img: "KKGmNKb.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "0" ],
+      boy: true
+    }
+  },      
+  {
+    name: "The Bearer of Chains",
+    img: "dqmUPTP.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "0" ],
+      girl: true
+    }
+  },    
+  {
     name: "The Herald of Bloom",
     img: "TfJkYFF.png",
     opts: {
@@ -79,6 +114,23 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "Rakiel E. Maruher",
+    img: "qBsiOwE.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "0" ],
+      boy: true
+    }
+  },    
+  {
+    name: "The Yahshua",
+    img: "EEBzSFN.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "0" ]
+    }
+  },     
+  {
     name: "Annabelle Vita",
     img: "xsfRagw.png",
     opts: {
@@ -96,6 +148,15 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+  {
+    name: "Julia Verus",
+    img: "KKGmNKb.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1" ],
+      girl: true
+    }
+  },    
   {
     name: "Kseniya Arminius",
     img: "Vukcu6t.png",
@@ -140,7 +201,43 @@ dataSet[dataSetVersion].characterData = [
       era: [ "1" ],
       girl: true
     }
-  },    
+  },   
+  {
+    name: "Esra Tiryaki",
+    img: "NLgqGLK.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "2" ],
+      girl: true
+    }
+  },        
+  {
+    name: "Francisco Jones",
+    img: "BXxoL8x.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "2" ],
+      boy: true
+    }
+  },      
+  {
+    name: "Helena Bellard",
+    img: "wAf2ROG.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "2" ],
+      girl: true
+    }
+  },       
+  {
+    name: "Ywan Bellard",
+    img: "MhKJMwh.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "2" ],
+      boy: true
+    }
+  },         
   {
     name: "Alois Burkhard",
     img: "v54NeUd.png",
@@ -158,7 +255,25 @@ dataSet[dataSetVersion].characterData = [
       era: [ "3" ],
       girl: true
     }
+  },   
+  {
+    name: "Andras",
+    img: "xG8o9Mc.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      girl: true
+    }
   },     
+  {
+    name: "Artemisia",
+    img: "mlt5O4q.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      girl: true
+    }
+  },      
   {
     name: "Artios",
     img: "zDJ35MF.png",
@@ -176,7 +291,16 @@ dataSet[dataSetVersion].characterData = [
       era: [ "3" ],
       girl: true
     }
-  },       
+  },      
+  {
+    name: "Eta Petomi",
+    img: "z4jKjYj.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      boy: true
+    }
+  },     
   {
     name: "Gaius Marius",
     img: "VBDrVTs.png",
@@ -248,5 +372,179 @@ dataSet[dataSetVersion].characterData = [
       era: [ "3" ],
       boy: true
     }
-  }  
+  },
+  {
+    name: "Zythas",
+    img: "AidWRgZ.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      boy: true
+    }
+  },   
+  {
+    name: "Arietta Medley",
+    img: "9IouZM7.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "4" ],
+      girl: true
+    }
+  },        
+  {
+    name: "The Doctor",
+    img: "OQvSQHp.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "4" ],
+      boy: true
+    }
+  },       
+  {
+    name: "The Emperor",
+    img: "O95XEtT.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "4" ],
+      boy: true
+    }
+  },        
+  {
+    name: "Frederick Potsdam Hohenzollern",
+    img: "3puziyb.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "4" ],
+      boy: true
+    }
+  },      
+  {
+    name: "Claire, the Reject",
+    img: "6oHoqLs.png",
+    opts: {
+      series: [ "CS" ],
+      girl: true
+    }
+  },      
+  {
+    name: "Selena, the Detective",
+    img: "4eHIWOh.png",
+    opts: {
+      series: [ "CS" ],
+      girl: true
+    }
+  },        
+  {
+    name: "Alyssa Morita",
+    img: "YOFPvfi.png",
+    opts: {
+      series: [ "CS", "RP" ],
+      girl: true
+    }
+  },        
+  {
+    name: "Spike",
+    img: "TA9so5F.png",
+    opts: {
+      series: [ "SSG" ],
+      boy: true
+    }
+  },    
+  {
+    name: "SUPERGOD",
+    img: "1jJLEXr.png",
+    opts: {
+      series: [ "SSG" ],
+      boy: true
+    }
+  },      
+  {
+    name: "Ani d'Aubigny",
+    img: "8nxUyyj.png",
+    opts: {
+      series: [ "RP" ],
+      girl: true
+    }
+  },       
+  {
+    name: "Annette",
+    img: "7GLKOPH.png",
+    opts: {
+      series: [ "RP" ],
+      girl: true
+    }
+  },     
+ {
+    name: "Ano Tsukimo",
+    img: "z95u6Ri.png",
+    opts: {
+      series: [ "RP" ],
+      boy: true
+    }
+  },       
+  {
+    name: "Bob the Zombie",
+    img: "meCn9HH.png",
+    opts: {
+      series: [ "RP" ],
+      boy: true
+    }
+  },      
+  {
+    name: "Ishi-kun",
+    img: "8wCuCXD.png",
+    opts: {
+      series: [ "RP" ],
+      boy: true
+    }
+  },       
+  {
+    name: "Jimmy",
+    img: "RZHIeMX.png",
+    opts: {
+      series: [ "RP" ],
+      boy: true
+    }
+  },      
+  {
+    name: "The Enforcer",
+    img: "ELauUBk.png",
+    opts: {
+      series: [ "RP" ],
+      girl: true
+    }
+  },   
+  {
+    name: "Samu Elja K'Son",
+    img: "w5IeM5j.png",
+    opts: {
+      series: [ "RP" ],
+      boy: true
+    }
+  },        
+  {
+    name: "Ten Takashi",
+    img: "j1ByalG.png",
+    opts: {
+      series: [ "RP" ],
+      boy: true
+    }
+  },       
+  {
+    name: "Wu of the Cat's Eye",
+    img: "49J4xDw.png",
+    opts: {
+      series: [ "RP" ],
+      boy: true
+    }
+  },       
+  {
+    name: "Sir Fluffleston",
+    img: "eLeaIjU.png",
+    opts: {
+      series: [ "TIC", "CS", "SSG", "RP" ],
+      era: [ "0", "1", "2", "3", "4" ],
+      boy: true
+    }
+  },         
 ];
