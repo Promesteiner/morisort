@@ -285,7 +285,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Astarte",
-    img: "VIEBpIL.png",
+    img: "o465p4U.png",
     opts: {
       series: [ "TIC" ],
       era: [ "3" ],
