@@ -96,6 +96,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "The Herald of Annihilation",
+    img: "7vLa4GH.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "0" ],
+      boy: true
+    }
+  },    
+  {
     name: "The Herald of Bloom",
     img: "TfJkYFF.png",
     opts: {
