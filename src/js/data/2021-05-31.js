@@ -451,6 +451,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },        
   {
+    name: "Yukihiro Aoki",
+    img: "kf7ripa.png",
+    opts: {
+      series: [ "RP" ],
+      boy: true
+    }
+  },    
+  {
     name: "Spike",
     img: "TA9so5F.png",
     opts: {
@@ -515,7 +523,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
-    name: "The Enforcer",
+    name: "The Enforcer (Hideko Aoki)",
     img: "ELauUBk.png",
     opts: {
       series: [ "RP" ],
