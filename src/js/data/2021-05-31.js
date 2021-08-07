@@ -149,6 +149,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },  
   {
+    name: "Cecilia Leuca",
+    img: "b3K5mR5.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1" ],
+      girl: true
+    }
+  },    
+  {
     name: "Claudia Aelian",
     img: "2Vzx8oZ.png",
     opts: {
