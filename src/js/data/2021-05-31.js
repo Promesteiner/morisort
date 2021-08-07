@@ -539,6 +539,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },        
   {
+    name: "Samson Keeves",
+    img: "IltpE9Z.png",
+    opts: {
+      series: [ "RP" ],
+      boy: true
+    }
+  },        
+  {
     name: "Ten Takashi",
     img: "j1ByalG.png",
     opts: {
