@@ -468,6 +468,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "The Enforcer (Hideko Aoki)",
+    img: "ELauUBk.png",
+    opts: {
+      series: [ "RP" ],
+      girl: true
+    }
+  },   
+  {
     name: "Spike",
     img: "TA9so5F.png",
     opts: {
@@ -532,24 +540,16 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
-    name: "The Enforcer (Hideko Aoki)",
-    img: "ELauUBk.png",
-    opts: {
-      series: [ "RP" ],
-      girl: true
-    }
-  },   
-  {
-    name: "Samu Elja K'Son",
-    img: "w5IeM5j.png",
+    name: "Samson Keeves",
+    img: "IltpE9Z.png",
     opts: {
       series: [ "RP" ],
       boy: true
     }
   },        
   {
-    name: "Samson Keeves",
-    img: "IltpE9Z.png",
+    name: "Samu Elja K'Son",
+    img: "w5IeM5j.png",
     opts: {
       series: [ "RP" ],
       boy: true
