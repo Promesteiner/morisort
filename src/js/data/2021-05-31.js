@@ -221,6 +221,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },   
   {
+    name: "Visania Maia",
+    img: "kZ4lfYC.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1" ],
+      girl: true
+    }
+  },   
+  {
     name: "Esra Tiryaki",
     img: "NLgqGLK.png",
     opts: {
