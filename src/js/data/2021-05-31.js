@@ -96,6 +96,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "The Cosmic Catfish",
+    img: "ft67Zq7.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "0" ]
+    }
+  },      
+  {
     name: "The Herald of Annihilation",
     img: "7vLa4GH.png",
     opts: {
@@ -484,6 +492,14 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },   
+  {
+    name: "The Monogenie",
+    img: "l0BkRfg.png",
+    opts: {
+      series: [ "RP" ],
+      boy: true
+    }
+  },     
   {
     name: "Spike",
     img: "TA9so5F.png",
