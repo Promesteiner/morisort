@@ -549,6 +549,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
+    name: "Gown Bo",
+    img: "WML5bd9.png",
+    opts: {
+      series: [ "RP" ],
+      boy: true
+    }
+  },        
+  {
     name: "Ishi-kun",
     img: "8wCuCXD.png",
     opts: {
