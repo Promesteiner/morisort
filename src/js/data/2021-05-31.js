@@ -355,7 +355,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Iona Riveras",
-    img: "o8A2iW0.png",
+    img: "quQEaAL.png",
     opts: {
       series: [ "TIC" ],
       era: [ "3" ],
