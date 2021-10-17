@@ -573,6 +573,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
+    name: "Ruler",
+    img: "IZcCEUu.png",
+    opts: {
+      series: [ "RP" ],
+      girl: true
+    }
+  },          
+  {
     name: "Samson Keeves",
     img: "IltpE9Z.png",
     opts: {
