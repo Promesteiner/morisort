@@ -573,7 +573,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
-    name: "Ruler",
+    name: "Ruler (Mori Alter)",
     img: "IZcCEUu.png",
     opts: {
       series: [ "RP" ],
@@ -596,6 +596,14 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },        
+  {
+    name: "Skill-chan",
+    img: "0lPPIRi.png",
+    opts: {
+      series: [ "RP" ],
+      girl: true
+    }
+  },            
   {
     name: "Ten Takashi",
     img: "j1ByalG.png",
