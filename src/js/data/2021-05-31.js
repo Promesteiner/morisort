@@ -539,7 +539,15 @@ dataSet[dataSetVersion].characterData = [
       series: [ "RP" ],
       boy: true
     }
-  },       
+  },
+  {
+    name: "Ashura-chan",
+    img: "wFH4C5l.png",
+    opts: {
+      series: [ "RP" ],
+      girl: true
+    }
+  },              
   {
     name: "Bob the Zombie",
     img: "meCn9HH.png",
@@ -596,14 +604,6 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },        
-  {
-    name: "Skill-chan",
-    img: "0lPPIRi.png",
-    opts: {
-      series: [ "RP" ],
-      girl: true
-    }
-  },            
   {
     name: "Ten Takashi",
     img: "j1ByalG.png",
