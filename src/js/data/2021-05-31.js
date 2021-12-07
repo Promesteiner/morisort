@@ -11,6 +11,7 @@ dataSet[dataSetVersion].options = [
       { name: "The Infinite Consortium", tooltip: "The Infinite Consortium", key: "TIC" },
       { name: "Companionship", tooltip: "Companionship", key: "CS" }, 
       { name: "Spike's Superstar Games", tooltip: "Spike's Superstar Games", key: "SSG" },     
+      { name: "The Articles of Debauchery", tooltip: "The Articles of Debauchery", key: "AoD" },
       { name: "Other", tooltip: "Unrelated roleplays and characters", key: "RP" }
     ]
   },
@@ -504,7 +505,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Spike",
     img: "TA9so5F.png",
     opts: {
-      series: [ "SSG" ],
+      series: [ "SSG", "AoD" ],
       boy: true
     }
   },    
@@ -512,10 +513,34 @@ dataSet[dataSetVersion].characterData = [
     name: "SUPERGOD",
     img: "1jJLEXr.png",
     opts: {
-      series: [ "SSG" ],
+      series: [ "SSG", "AoD" ],
       boy: true
     }
   },      
+  {
+    name: "Ashura-chan",
+    img: "wFH4C5l.png",
+    opts: {
+      series: [ "RP", "AoD" ],
+      girl: true
+    }
+  },              
+  {
+    name: "Steve",
+    img: "IoRqCt7.png",
+    opts: {
+      series: [ "AoD" ],
+      boy: true
+    }
+  },              
+  {
+    name: "Min",
+    img: "z23NrNa.png",
+    opts: {
+      series: [ "AoD" ],
+      girl: true
+    }
+  },              
   {
     name: "Ani d'Aubigny",
     img: "8nxUyyj.png",
@@ -540,14 +565,6 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },
-  {
-    name: "Ashura-chan",
-    img: "wFH4C5l.png",
-    opts: {
-      series: [ "RP" ],
-      girl: true
-    }
-  },              
   {
     name: "Bob the Zombie",
     img: "meCn9HH.png",
