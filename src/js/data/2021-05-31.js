@@ -320,6 +320,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
+    name: "Ashiya",
+    img: "6inOtxW.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3" ],
+      girl: true
+    }
+  },        
+  {
     name: "Astarte",
     img: "o465p4U.png",
     opts: {
