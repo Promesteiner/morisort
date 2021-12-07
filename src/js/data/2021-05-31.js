@@ -176,6 +176,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "High Priestess Seong-ja",
+    img: "WnmVsAN.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1" ],
+      girl: true
+    }
+  },     
+  {
     name: "Julia Verus",
     img: "XPwqbz0.png",
     opts: {
