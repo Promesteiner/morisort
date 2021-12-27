@@ -616,6 +616,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },      
   {
+    name: "Joceline Reed",
+    img: "uX5MA83.png",
+    opts: {
+      series: [ "RP" ],
+      girl: true
+    }
+  },        
+  {
     name: "Ruler (Mori Alter)",
     img: "IZcCEUu.png",
     opts: {
