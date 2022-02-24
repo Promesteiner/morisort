@@ -61,6 +61,14 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },
+   {
+    name: "Val",
+    img: "GsgxqLN.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "3", "4" ]
+    }
+  },  
   {
     name: "Animus",
     img: "JkaBYxS.png",
