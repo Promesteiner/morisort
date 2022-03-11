@@ -316,7 +316,7 @@ dataSet[dataSetVersion].characterData = [
     img: "wgT8mjE.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "3", "4', "5" ],
+      era: [ "3", "4", "5" ],
       girl: true
     }
   },     
