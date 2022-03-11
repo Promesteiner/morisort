@@ -26,7 +26,7 @@ dataSet[dataSetVersion].options = [
       { name: "Aspirations", tooltip: "Aspirations", key: "2" },          
       { name: "Civil War", tooltip: "Civil War", key: "3" },
       { name: "Post-Reformation", tooltip: "Post-Reformation", key: "4" },
-      { name: "Imperium", tooltip: "Imperium", key: "5"}
+      { name: "Imperium", tooltip: "Imperium", key: "5" }
     ]
   },
  {
@@ -42,7 +42,7 @@ dataSet[dataSetVersion].options = [
   checked: false
   }, 
  {
-  name: 'Remove Misc.',
+  name: 'Remove Misc',
   key: 'nb',
   tooltip: 'Check this to get the miscellaneously gendered characters out of there.',
   checked: false
