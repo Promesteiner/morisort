@@ -142,7 +142,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Rakiel E. Maruher",
-    img: "VbDRIF1.png",
+    img: "cHuGMYM.png",
     opts: {
       series: [ "TIC" ],
       era: [ "0" ],
@@ -412,7 +412,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Rehmer",
-    img: "voiW2c0.png",
+    img: "MOhx8XV.png",
     opts: {
       series: [ "TIC" ],
       era: [ "3", "4" ],
