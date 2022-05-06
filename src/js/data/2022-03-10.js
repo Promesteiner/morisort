@@ -25,8 +25,8 @@ dataSet[dataSetVersion].options = [
       { name: "Carolinic", tooltip: "Carolinic", key: "1" },     
       { name: "Aspirations", tooltip: "Aspirations", key: "2" },          
       { name: "Civil War", tooltip: "Civil War", key: "3" },
-      { name: "Imperium", tooltip: "Imperium", key: "4" }  
-      { name: "Post-Reformation", tooltip: "Post-Reformation", key: "5" },
+      { name: "Imperium", tooltip: "Imperium", key: "4" },
+      { name: "Post-Reformation", tooltip: "Post-Reformation", key: "5" }
     ]
   },
  {
