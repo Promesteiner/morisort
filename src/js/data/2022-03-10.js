@@ -9,8 +9,8 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [
       { name: "The Infinite Consortium", tooltip: "The Infinite Consortium", key: "TIC" },
-      { name: "The Initiative", tooltip: "The Initiative", key: "CS" }, 
-      { name: "Spike's Superstar Games", tooltip: "Spike's Superstar Games", key: "SSG" },     
+      { name: "The Initiative", tooltip: "The Initiative", key: "CS" },
+      { name: "Spike's Superstar Games", tooltip: "Spike's Superstar Games", key: "SSG" },
       { name: "The Articles of Debauchery", tooltip: "The Articles of Debauchery", key: "AoD" },
       { name: "Other", tooltip: "Unrelated roleplays and characters", key: "RP" }
     ]
@@ -25,8 +25,8 @@ dataSet[dataSetVersion].options = [
       { name: "Carolinic", tooltip: "Carolinic", key: "1" },     
       { name: "Aspirations", tooltip: "Aspirations", key: "2" },          
       { name: "Civil War", tooltip: "Civil War", key: "3" },
-      { name: "Post-Reformation", tooltip: "Post-Reformation", key: "4" },
-      { name: "Imperium", tooltip: "Imperium", key: "5" }
+      { name: "Imperium", tooltip: "Imperium", key: "4" }  
+      { name: "Post-Reformation", tooltip: "Post-Reformation", key: "5" },
     ]
   },
  {
@@ -40,7 +40,7 @@ dataSet[dataSetVersion].options = [
   key: 'girl',
   tooltip: 'Check this to get the girls out of there.',
   checked: false
-  }, 
+  },
  {
   name: 'Remove Misc',
   key: 'nb',
@@ -64,7 +64,7 @@ dataSet[dataSetVersion].characterData = [
     img: "2dfY2CB.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "3", "4", "5" ],
+      era: [ "3", "4" ],
       boy: true
     }
   },
@@ -141,6 +141,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },    
   {
+    name: "Mynx",
+    img: "APESsTc.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "0", "5" ],
+      girl: true
+    }
+  },      
+  {
     name: "Rakiel E. Maruher",
     img: "cHuGMYM.png",
     opts: {
@@ -163,7 +172,7 @@ dataSet[dataSetVersion].characterData = [
     img: "oljV1gJ.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "1" ,"3", "4" ],
+      era: [ "1" ,"3" ],
       girl: true
     }
   },  
@@ -307,7 +316,7 @@ dataSet[dataSetVersion].characterData = [
     img: "efsCMI6.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "3", "4" ],
+      era: [ "3", "5" ],
       girl: true
     }
   },   
@@ -316,7 +325,7 @@ dataSet[dataSetVersion].characterData = [
     img: "wgT8mjE.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "3", "4", "5" ],
+      era: [ "3", "4" ],
       girl: true
     }
   },     
@@ -334,7 +343,7 @@ dataSet[dataSetVersion].characterData = [
     img: "kfA1RUj.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "3", "4" ],
+      era: [ "3" ],
       boy: true
     }
   },      
@@ -343,7 +352,7 @@ dataSet[dataSetVersion].characterData = [
     img: "gehAi14.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "3", "4" ],
+      era: [ "3" ],
       girl: true
     }
   },        
@@ -352,7 +361,7 @@ dataSet[dataSetVersion].characterData = [
     img: "VDYF2B6.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "3", "4", "5" ],
+      era: [ "3", "4" ],
       girl: true
     }
   },      
@@ -361,7 +370,7 @@ dataSet[dataSetVersion].characterData = [
     img: "QBuAnry.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "3", "5" ],
+      era: [ "3", "4" ],
       nb: true
     }
   },     
@@ -370,7 +379,7 @@ dataSet[dataSetVersion].characterData = [
     img: "nMaRx86.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "3", "5" ],
+      era: [ "3", "4" ],
       boy: true
     }
   },     
@@ -388,7 +397,7 @@ dataSet[dataSetVersion].characterData = [
     img: "iUMFGJh.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "3", "5" ],
+      era: [ "3", "4" ],
       girl: true
     }
   },     
@@ -415,7 +424,7 @@ dataSet[dataSetVersion].characterData = [
     img: "MOhx8XV.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "3", "4" ],
+      era: [ "3" ],
       boy: true
     }
   },     
@@ -433,7 +442,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Zsx0cNJ.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "3", "4", "5" ],
+      era: [ "3", "4" ],
       boy: true
     }
   },
@@ -446,48 +455,12 @@ dataSet[dataSetVersion].characterData = [
       boy: true
     }
   },   
-  {
-    name: "Arietta Medley",
-    img: "03HOFOb.png",
-    opts: {
-      series: [ "TIC" ],
-      era: [ "4" ],
-      girl: true
-    }
-  },        
-  {
-    name: "The Doctor",
-    img: "UIULB7A.png",
-    opts: {
-      series: [ "TIC" ],
-      era: [ "4" ],
-      boy: true
-    }
-  },       
-  {
-    name: "The Emperor",
-    img: "71n1W8X.png",
-    opts: {
-      series: [ "TIC" ],
-      era: [ "4" ],
-      boy: true
-    }
-  },        
-  {
-    name: "Frederick Potsdam Hohenzollern",
-    img: "3kYgyq2.png",
-    opts: {
-      series: [ "TIC" ],
-      era: [ "4" ],
-      boy: true
-    }
-  },    
    {
     name: "Alitaxya",
     img: "gK2Nf4G.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "5" ],
+      era: [ "4" ],
       girl: true
     }
   },       
@@ -496,7 +469,7 @@ dataSet[dataSetVersion].characterData = [
     img: "XLzIDJ1.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "5" ],
+      era: [ "4" ],
       nb: true
     }
   },      
@@ -505,7 +478,7 @@ dataSet[dataSetVersion].characterData = [
     img: "s5QMuxJ.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "5" ],
+      era: [ "4" ],
       girl: true
     }
   },        
@@ -514,7 +487,7 @@ dataSet[dataSetVersion].characterData = [
     img: "enY2ckZ.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "5" ],
+      era: [ "4" ],
       girl: true
     }
   },      
@@ -523,7 +496,7 @@ dataSet[dataSetVersion].characterData = [
     img: "OHN32KT.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "5" ],
+      era: [ "4" ],
       girl: true
     }
   },        
@@ -532,10 +505,64 @@ dataSet[dataSetVersion].characterData = [
     img: "3boXZCv.png",
     opts: {
       series: [ "TIC" ],
-      era: [ "5" ],
+      era: [ "4" ],
       girl: true
     }
   },      
+  {
+    name: "Agent Shrow",
+    img: "MQiIzWW.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "5" ],
+      girl: true
+    }
+  },         
+  {
+    name: "Arietta Medley",
+    img: "03HOFOb.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "5" ],
+      girl: true
+    }
+  },        
+  {
+    name: "The Doctor",
+    img: "UIULB7A.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "5" ],
+      boy: true
+    }
+  },       
+  {
+    name: "The Emperor",
+    img: "71n1W8X.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "5" ],
+      boy: true
+    }
+  },        
+  {
+    name: "Frederick Potsdam Hohenzollern",
+    img: "3kYgyq2.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "5" ],
+      boy: true
+    }
+  },    
+  {
+    name: "Magi",
+    img: "k6g66rB.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "5" ],
+      nb: true
+    }
+  },          
   {
     name: "Claire Bennet",
     img: "RBiicgj.png",
