@@ -627,6 +627,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },          
   {
+    name: "Willow",
+    img: "oIZlwFt.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "5" ],
+      girl: true
+    }
+  },            
+  {
     name: "Claire Bennet",
     img: "RBiicgj.png",
     opts: {
