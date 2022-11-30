@@ -627,7 +627,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },          
   {
-    name: "Willow",
+    name: "Willow Hiemon",
     img: "oIZlwFt.png",
     opts: {
       series: [ "TIC" ],
