@@ -70,7 +70,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Vayla",
-    img: "K8ECHhw.png",
+    img: "wz3xqrs.png",
     opts: {
       series: [ "TIC" ],
       era: [ "1", "3", "4", "5" ],
