@@ -616,7 +616,16 @@ dataSet[dataSetVersion].characterData = [
       era: [ "5" ],
       girl: true
     }
-  },              
+  },
+  {
+    name: "Kai Silvers",
+    img: "uOHsgXr.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "5" ],
+      girl: true
+    }
+  },                
   {
     name: "Magi",
     img: "k6g66rB.png",
