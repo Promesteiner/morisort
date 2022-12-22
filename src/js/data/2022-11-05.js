@@ -474,6 +474,15 @@ dataSet[dataSetVersion].characterData = [
     }
   },       
   {
+    name: "Elizi",
+    img: "wP1Dpo2.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "4" ],
+      nb: true
+    }
+  },          
+  {
     name: "Fervena Elysii",
     img: "XLzIDJ1.png",
     opts: {
