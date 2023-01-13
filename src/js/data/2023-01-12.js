@@ -142,7 +142,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Jackson Merrick",
-    img: "cHuGMYM.png",
+    img: "wd3Jyye.png",
     opts: {
       series: [ "TIC" ],
       era: [ "0" ],
