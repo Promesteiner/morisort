@@ -21,10 +21,10 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to restrict to certain eras in Consortium history. Cuts out non-TIC characters.",
     checked: false,
     sub: [
-      { name: "Primordial", tooltip: "Primordial", key: "0" },
-      { name: "Carolinic", tooltip: "Carolinic", key: "1" },     
-      { name: "Aspirations", tooltip: "Aspirations", key: "2" },          
-      { name: "Civil War", tooltip: "Civil War", key: "3" },
+      { name: "Anamnesis", tooltip: "Anamnesis", key: "0" },
+      { name: "Ad Astra", tooltip: "Ad Astra", key: "1" },     
+      { name: "Brave New World", tooltip: "Brave New World", key: "2" },          
+      { name: "Cast Dice", tooltip: "Cast Dice", key: "3" },
       { name: "Imperium", tooltip: "Imperium", key: "4" },
       { name: "Last Chance", tooltip: "Last Chance", key: "5" }
     ]
@@ -88,7 +88,7 @@ dataSet[dataSetVersion].characterData = [
   },    
   {
     name: "Ash Verle",
-    img: "nGRWa3P.png",
+    img: "vLHRkmV.png",
     opts: {
       series: [ "TIC" ],
       era: [ "0" ],
@@ -204,6 +204,24 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Gaius Marius",
+    img: "nMaRx86.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "2", "3", "4" ],
+      boy: true
+    }
+  },  
+  {
+    name: "Hayti Primuth",
+    img: "kHH0Jvm.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1", "2", "3" ],
+      girl: true
+    }
+  },      
+  {
     name: "High Priestess Seong-ja",
     img: "LS9Zbdh.png",
     opts: {
@@ -247,7 +265,16 @@ dataSet[dataSetVersion].characterData = [
       era: [ "1" ],
       girl: true
     }
-  },      
+  },
+  {
+    name: "Russel Raleigh",
+    img: "Zsx0cNJ.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "2", "3", "4" ],
+      boy: true
+    }
+  },  
   {
     name: "Sabina Vita",
     img: "WDBWaUN.png",
@@ -256,7 +283,16 @@ dataSet[dataSetVersion].characterData = [
       era: [ "1" ],
       girl: true
     }
-  },  
+  },
+  {
+    name: "Seianti Mura",
+    img: "lA8RBE3.png",
+    opts: {
+      series: [ "TIC" ],
+      era: [ "1" ],
+      girl: true
+    }
+  },    
   {
     name: "Sur'ah Hakira Sari",
     img: "Pp3SLiI.png",
@@ -384,24 +420,6 @@ dataSet[dataSetVersion].characterData = [
     }
   },     
   {
-    name: "Gaius Marius",
-    img: "nMaRx86.png",
-    opts: {
-      series: [ "TIC" ],
-      era: [ "3", "4" ],
-      boy: true
-    }
-  },     
-  {
-    name: "Hayti",
-    img: "kHH0Jvm.png",
-    opts: {
-      series: [ "TIC" ],
-      era: [ "3" ],
-      girl: true
-    }
-  },    
-  {
     name: "Iona Riveras",
     img: "iUMFGJh.png",
     opts: {
@@ -446,15 +464,6 @@ dataSet[dataSetVersion].characterData = [
       girl: true
     }
   },      
-  {
-    name: "Russel Raleigh",
-    img: "Zsx0cNJ.png",
-    opts: {
-      series: [ "TIC" ],
-      era: [ "3", "4" ],
-      boy: true
-    }
-  },
   {
     name: "Zythas",
     img: "mWzewsE.png",
@@ -583,7 +592,7 @@ dataSet[dataSetVersion].characterData = [
   },            
   {
     name: "Arietta Medley",
-    img: "03HOFOb.png",
+    img: "DVoM5J8.png",
     opts: {
       series: [ "TIC" ],
       era: [ "5" ],
@@ -711,7 +720,7 @@ dataSet[dataSetVersion].characterData = [
   },      
   {
     name: "Alyssa Morita",
-    img: "0pCgyA2.png",
+    img: "VCmIwvH.png",
     opts: {
       series: [ "RP" ],
       girl: true
